@@ -1,0 +1,1478 @@
+FILE;2;pom.xml;
+FILE;1;.project;
+FILE;115;sm-shop/pom.xml;
+FILE;114;sm-shop/.project;
+FILE;113;sm-shop/.classpath;
+FILE;864;sm-shop/src/test/resources/log4j.xml;
+FILE;840;sm-shop/src/main/webapp/WEB-INF/web.xml;JSP
+FILE;839;sm-shop/src/main/webapp/WEB-INF/shopizer-tags.tld;JSP
+FILE;838;sm-shop/src/main/webapp/WEB-INF/shopizer-functions.tld;JSP
+FILE;859;sm-shop/src/main/webapp/WEB-INF/views/shop.jsp;JSP
+FILE;863;sm-shop/src/main/webapp/WEB-INF/views/error/generic_error.jsp;JSP
+FILE;862;sm-shop/src/main/webapp/WEB-INF/views/error/access_denied.jsp;JSP
+FILE;861;sm-shop/src/main/webapp/WEB-INF/views/admin/unauthorized.jsp;JSP
+FILE;860;sm-shop/src/main/webapp/WEB-INF/views/admin/logon.jsp;JSP
+FILE;858;sm-shop/src/main/webapp/WEB-INF/tiles/tiles-shop.xml;
+FILE;857;sm-shop/src/main/webapp/WEB-INF/tiles/tiles-admin.xml;
+FILE;852;sm-shop/src/main/webapp/WEB-INF/spring/root-context.xml;
+FILE;856;sm-shop/src/main/webapp/WEB-INF/spring/appServlet/shopizer-security.xml;
+FILE;855;sm-shop/src/main/webapp/WEB-INF/spring/appServlet/shopizer-properties.xml;
+FILE;854;sm-shop/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml;
+FILE;853;sm-shop/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml;
+FILE;841;sm-shop/src/main/webapp/WEB-INF/classes/log4j.xml;
+FILE;851;sm-shop/src/main/webapp/WEB-INF/classes/demo/spring.png;
+FILE;850;sm-shop/src/main/webapp/WEB-INF/classes/demo/paas.JPG;
+FILE;849;sm-shop/src/main/webapp/WEB-INF/classes/demo/node.jpg;
+FILE;848;sm-shop/src/main/webapp/WEB-INF/classes/demo/live-code.jpg;
+FILE;847;sm-shop/src/main/webapp/WEB-INF/classes/demo/jQuery.jpg;
+FILE;846;sm-shop/src/main/webapp/WEB-INF/classes/demo/html5-multimedia.jpg;
+FILE;845;sm-shop/src/main/webapp/WEB-INF/classes/demo/google.jpg;
+FILE;844;sm-shop/src/main/webapp/WEB-INF/classes/demo/cloud.jpg;
+FILE;843;sm-shop/src/main/webapp/WEB-INF/classes/demo/android2.jpg;
+FILE;842;sm-shop/src/main/webapp/WEB-INF/classes/demo/android.jpg;
+FILE;837;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/modernizr.js;JS
+FILE;836;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/bootstrap.js;JS
+FILE;835;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/bloodhound.min.js;JS
+FILE;834;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/theme.css;
+FILE;833;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/shop.css;
+FILE;832;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/orange.css;
+FILE;831;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/font-awesome.css;
+FILE;830;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/essentials.css;
+FILE;829;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/css.css;
+FILE;828;sm-shop/src/main/webapp/resources/templates/bootstrap3/css/bootstrap.css;
+FILE;827;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-typeahead.js;JS
+FILE;826;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-tooltip.js;JS
+FILE;825;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-tab.js;JS
+FILE;824;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-scrollspy.js;JS
+FILE;823;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-popover.js;JS
+FILE;822;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-modal.js;JS
+FILE;821;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-dropdown.js;JS
+FILE;820;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-collapse.js;JS
+FILE;819;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-carousel.js;JS
+FILE;818;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-button.js;JS
+FILE;817;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-alert.js;JS
+FILE;816;sm-shop/src/main/webapp/resources/templates/bootstrap/img/surf-banner.jpg;
+FILE;815;sm-shop/src/main/webapp/resources/templates/bootstrap/css/theme.css;
+FILE;814;sm-shop/src/main/webapp/resources/templates/bootstrap/css/bootstrap.min.css;
+FILE;813;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Workflow.js;JS
+FILE;812;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_SQLBrowser.js;JS
+FILE;811;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Scheduler.js;JS
+FILE;810;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_SalesForce.js;JS
+FILE;809;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Kapow.js.gz;
+FILE;808;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Kapow.js;JS
+FILE;807;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_History.js.gz;
+FILE;806;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_History.js;JS
+FILE;805;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Grids.js.gz;
+FILE;804;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Grids.js;JS
+FILE;803;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Foundation.js;JS
+FILE;802;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Forms.js.gz;
+FILE;801;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Forms.js;JS
+FILE;800;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_EBay.js.gz;
+FILE;799;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_EBay.js;JS
+FILE;798;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_DSBrowser.js;JS
+FILE;797;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Drawing.js.gz;
+FILE;796;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Drawing.js;JS
+FILE;795;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Core.js.gz;
+FILE;794;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Core.js;JS
+FILE;793;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Containers.js;JS
+FILE;792;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Calendar.js;JS
+FILE;791;sm-shop/src/main/webapp/resources/smart-client/skins/SmartClient/load_skin.js;JS
+FILE;790;sm-shop/src/main/webapp/resources/smart-client/skins/Graphite/skin_styles.css;
+FILE;789;sm-shop/src/main/webapp/resources/smart-client/skins/Graphite/load_skin.js.gz;
+FILE;788;sm-shop/src/main/webapp/resources/smart-client/skins/Graphite/load_skin.js;JS
+FILE;787;sm-shop/src/main/webapp/resources/smart-client/skins/Enterprise/skin_styles.css;
+FILE;786;sm-shop/src/main/webapp/resources/smart-client/skins/Enterprise/load_skin.js.gz;
+FILE;785;sm-shop/src/main/webapp/resources/smart-client/skins/Enterprise/load_skin.js;JS
+FILE;784;sm-shop/src/main/webapp/resources/messages/warning.png;
+FILE;783;sm-shop/src/main/webapp/resources/messages/success.png;
+FILE;782;sm-shop/src/main/webapp/resources/messages/messages.css;
+FILE;781;sm-shop/src/main/webapp/resources/messages/info.png;
+FILE;780;sm-shop/src/main/webapp/resources/messages/error.png;
+FILE;555;sm-shop/src/main/webapp/resources/js/typeahead.min.js;JS
+FILE;554;sm-shop/src/main/webapp/resources/js/shopping-cart.js;JS
+FILE;553;sm-shop/src/main/webapp/resources/js/shop-functions.js;JS
+FILE;552;sm-shop/src/main/webapp/resources/js/shop-customer.js;JS
+FILE;551;sm-shop/src/main/webapp/resources/js/registration.js;JS
+FILE;550;sm-shop/src/main/webapp/resources/js/product.js;JS
+FILE;549;sm-shop/src/main/webapp/resources/js/login.js;JS
+FILE;548;sm-shop/src/main/webapp/resources/js/json2.js;JS
+FILE;547;sm-shop/src/main/webapp/resources/js/jquery.showLoading.min.js;JS
+FILE;546;sm-shop/src/main/webapp/resources/js/jquery.raty.min.js;JS
+FILE;545;sm-shop/src/main/webapp/resources/js/jquery.quicksand.js;JS
+FILE;544;sm-shop/src/main/webapp/resources/js/jquery.printElement.min.js;JS
+FILE;543;sm-shop/src/main/webapp/resources/js/jquery.maskedinput.min.js;JS
+FILE;542;sm-shop/src/main/webapp/resources/js/jquery.friendurl.min.js;JS
+FILE;541;sm-shop/src/main/webapp/resources/js/jquery.formatCurrency-1.4.0.js;JS
+FILE;540;sm-shop/src/main/webapp/resources/js/jquery.elevateZoom-3.0.8.min.js;JS
+FILE;539;sm-shop/src/main/webapp/resources/js/jquery.easing.1.3.js;JS
+FILE;538;sm-shop/src/main/webapp/resources/js/jquery.creditCardValidator.js;JS
+FILE;537;sm-shop/src/main/webapp/resources/js/jquery.alphanumeric.pack.js;JS
+FILE;536;sm-shop/src/main/webapp/resources/js/jquery-sort-filter-plugin.js;JS
+FILE;535;sm-shop/src/main/webapp/resources/js/jquery-cookie.js;JS
+FILE;534;sm-shop/src/main/webapp/resources/js/jquery-1.10.2.min.js;JS
+FILE;533;sm-shop/src/main/webapp/resources/js/hogan.js;JS
+FILE;532;sm-shop/src/main/webapp/resources/js/functions.jsp;JSP
+FILE;531;sm-shop/src/main/webapp/resources/js/adminFunctions.js;JS
+FILE;530;sm-shop/src/main/webapp/resources/js/address.js;JS
+FILE;572;sm-shop/src/main/webapp/resources/js/ckeditor/config.js;JS
+FILE;571;sm-shop/src/main/webapp/resources/js/ckeditor/ckeditor.js;JS
+FILE;779;sm-shop/src/main/webapp/resources/js/ckeditor/themes/default/theme.js;JS
+FILE;771;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/templates.css;
+FILE;770;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/skin.js;JS
+FILE;769;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/icons_rtl.png;
+FILE;768;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/icons.png;
+FILE;767;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/editor.css;
+FILE;766;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/dialog.css;
+FILE;778;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/toolbar_start.gif;
+FILE;777;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/sprites_ie6.png;
+FILE;776;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/sprites.png;
+FILE;775;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/noimage.png;
+FILE;774;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/mini.gif;
+FILE;773;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/dialog_sides.png;
+FILE;772;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/images/dialog_sides.gif;
+FILE;765;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/templates.css;
+FILE;764;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/skin.js;JS
+FILE;763;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/icons_rtl.png;
+FILE;762;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/icons.png;
+FILE;761;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/editor.css;
+FILE;760;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/dialog.css;
+FILE;755;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/templates.css;
+FILE;754;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/skin.js;JS
+FILE;753;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/icons_rtl.png;
+FILE;752;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/icons.png;
+FILE;751;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/editor.css;
+FILE;750;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/dialog.css;
+FILE;759;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/images/sprites_ie6.png;
+FILE;758;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/images/sprites.png;
+FILE;757;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/images/noimage.png;
+FILE;756;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/images/mini.gif;
+FILE;749;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/xml/plugin.js;JS
+FILE;748;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/wsc/dialogs/wsc.js;JS
+FILE;747;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/wsc/dialogs/wsc.css;
+FILE;746;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/wsc/dialogs/ciframe.html;JS
+FILE;718;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/uicolor.gif;
+FILE;717;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/plugin.js;JS
+FILE;745;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/yui/yui.js;JS
+FILE;744;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/zh-cn.js;JS
+FILE;743;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/vi.js;JS
+FILE;742;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/uk.js;JS
+FILE;741;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/ug.js;JS
+FILE;740;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/tr.js;JS
+FILE;739;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/pt-br.js;JS
+FILE;738;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/pl.js;JS
+FILE;737;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/no.js;JS
+FILE;736;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/nl.js;JS
+FILE;735;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/nb.js;JS
+FILE;734;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/mk.js;JS
+FILE;733;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/it.js;JS
+FILE;732;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/hr.js;JS
+FILE;731;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/he.js;JS
+FILE;730;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fr.js;JS
+FILE;729;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fi.js;JS
+FILE;728;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fa.js;JS
+FILE;727;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/et.js;JS
+FILE;726;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/eo.js;JS
+FILE;725;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/en.js;JS
+FILE;724;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/el.js;JS
+FILE;723;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/de.js;JS
+FILE;722;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/da.js;JS
+FILE;721;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/cy.js;JS
+FILE;720;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/cs.js;JS
+FILE;719;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/bg.js;JS
+FILE;716;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/tableresize/plugin.js;JS
+FILE;715;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/table/dialogs/table.js;JS
+FILE;714;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/styles/styles/default.js;JS
+FILE;713;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/smiley/images/kiss.gif;
+FILE;712;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/smiley/images/heart.gif;
+FILE;711;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/scayt/dialogs/toolbar.css;
+FILE;710;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/scayt/dialogs/options.js;JS
+FILE;709;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/preview/preview.html;JS
+FILE;708;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/placeholder/plugin.js;JS
+FILE;707;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/link/images/anchor.gif;
+FILE;706;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/link/dialogs/link.js;JS
+FILE;705;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/link/dialogs/anchor.js;JS
+FILE;704;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/image/dialogs/image.js;JS
+FILE;703;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/iframedialog/plugin.js;JS
+FILE;702;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/textarea.js;JS
+FILE;701;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/select.js;JS
+FILE;700;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/radio.js;JS
+FILE;699;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/form.js;JS
+FILE;698;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/checkbox.js;JS
+FILE;697;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/button.js;JS
+FILE;696;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/flash/dialogs/flash.js;JS
+FILE;695;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/find/dialogs/find.js;JS
+FILE;694;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/docprops/plugin.js;JS
+FILE;693;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/div/dialogs/div.js;JS
+FILE;666;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/plugin.js;JS
+FILE;692;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/zh-cn.js;JS
+FILE;691;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/vi.js;JS
+FILE;690;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/uk.js;JS
+FILE;689;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/ug.js;JS
+FILE;688;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/tr.js;JS
+FILE;687;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/pt-br.js;JS
+FILE;686;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/pl.js;JS
+FILE;685;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/no.js;JS
+FILE;684;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/nl.js;JS
+FILE;683;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/nb.js;JS
+FILE;682;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/it.js;JS
+FILE;681;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/hr.js;JS
+FILE;680;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/he.js;JS
+FILE;679;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/gu.js;JS
+FILE;678;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fr.js;JS
+FILE;677;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fi.js;JS
+FILE;676;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fa.js;JS
+FILE;675;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/et.js;JS
+FILE;674;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/eo.js;JS
+FILE;673;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/en.js;JS
+FILE;672;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/el.js;JS
+FILE;671;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/de.js;JS
+FILE;670;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/da.js;JS
+FILE;669;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/cy.js;JS
+FILE;668;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/cs.js;JS
+FILE;667;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/bg.js;JS
+FILE;665;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/bbcode/plugin.js;JS
+FILE;664;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/autogrow/plugin.js;JS
+FILE;663;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/ajax/plugin.js;JS
+FILE;662;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/adobeair/plugin.js;JS
+FILE;661;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/about/dialogs/about.js;JS
+FILE;660;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/zh-cn.js;JS
+FILE;659;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/vi.js;JS
+FILE;658;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/ug.js;JS
+FILE;657;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/tr.js;JS
+FILE;656;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/ro.js;JS
+FILE;655;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/pt-br.js;JS
+FILE;654;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/no.js;JS
+FILE;653;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/nl.js;JS
+FILE;652;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/nb.js;JS
+FILE;651;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/mk.js;JS
+FILE;650;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/it.js;JS
+FILE;649;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/he.js;JS
+FILE;648;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/gu.js;JS
+FILE;647;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fr.js;JS
+FILE;646;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fi.js;JS
+FILE;645;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fa.js;JS
+FILE;644;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/eo.js;JS
+FILE;643;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/en.js;JS
+FILE;642;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/el.js;JS
+FILE;641;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/de.js;JS
+FILE;640;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/da.js;JS
+FILE;639;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/cy.js;JS
+FILE;638;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/cs.js;JS
+FILE;637;sm-shop/src/main/webapp/resources/js/ckeditor/lang/_translationstatus.txt;
+FILE;636;sm-shop/src/main/webapp/resources/js/ckeditor/lang/_languages.js;JS
+FILE;635;sm-shop/src/main/webapp/resources/js/ckeditor/lang/zh.js;JS
+FILE;634;sm-shop/src/main/webapp/resources/js/ckeditor/lang/zh-cn.js;JS
+FILE;633;sm-shop/src/main/webapp/resources/js/ckeditor/lang/vi.js;JS
+FILE;632;sm-shop/src/main/webapp/resources/js/ckeditor/lang/uk.js;JS
+FILE;631;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ug.js;JS
+FILE;630;sm-shop/src/main/webapp/resources/js/ckeditor/lang/tr.js;JS
+FILE;629;sm-shop/src/main/webapp/resources/js/ckeditor/lang/th.js;JS
+FILE;628;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sv.js;JS
+FILE;627;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sr.js;JS
+FILE;626;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sr-latn.js;JS
+FILE;625;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sl.js;JS
+FILE;624;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sk.js;JS
+FILE;623;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ru.js;JS
+FILE;622;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ro.js;JS
+FILE;621;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pt.js;JS
+FILE;620;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pt-br.js;JS
+FILE;619;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pl.js;JS
+FILE;618;sm-shop/src/main/webapp/resources/js/ckeditor/lang/no.js;JS
+FILE;617;sm-shop/src/main/webapp/resources/js/ckeditor/lang/nl.js;JS
+FILE;616;sm-shop/src/main/webapp/resources/js/ckeditor/lang/nb.js;JS
+FILE;615;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ms.js;JS
+FILE;614;sm-shop/src/main/webapp/resources/js/ckeditor/lang/mn.js;JS
+FILE;613;sm-shop/src/main/webapp/resources/js/ckeditor/lang/mk.js;JS
+FILE;612;sm-shop/src/main/webapp/resources/js/ckeditor/lang/lv.js;JS
+FILE;611;sm-shop/src/main/webapp/resources/js/ckeditor/lang/lt.js;JS
+FILE;610;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ko.js;JS
+FILE;609;sm-shop/src/main/webapp/resources/js/ckeditor/lang/km.js;JS
+FILE;608;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ka.js;JS
+FILE;607;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ja.js;JS
+FILE;606;sm-shop/src/main/webapp/resources/js/ckeditor/lang/it.js;JS
+FILE;605;sm-shop/src/main/webapp/resources/js/ckeditor/lang/is.js;JS
+FILE;604;sm-shop/src/main/webapp/resources/js/ckeditor/lang/id.js;JS
+FILE;603;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hu.js;JS
+FILE;602;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hr.js;JS
+FILE;601;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hi.js;JS
+FILE;600;sm-shop/src/main/webapp/resources/js/ckeditor/lang/he.js;JS
+FILE;599;sm-shop/src/main/webapp/resources/js/ckeditor/lang/gu.js;JS
+FILE;598;sm-shop/src/main/webapp/resources/js/ckeditor/lang/gl.js;JS
+FILE;597;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fr.js;JS
+FILE;596;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fr-ca.js;JS
+FILE;595;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fo.js;JS
+FILE;594;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fi.js;JS
+FILE;593;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fa.js;JS
+FILE;592;sm-shop/src/main/webapp/resources/js/ckeditor/lang/eu.js;JS
+FILE;591;sm-shop/src/main/webapp/resources/js/ckeditor/lang/et.js;JS
+FILE;590;sm-shop/src/main/webapp/resources/js/ckeditor/lang/es.js;JS
+FILE;589;sm-shop/src/main/webapp/resources/js/ckeditor/lang/eo.js;JS
+FILE;588;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en.js;JS
+FILE;587;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-gb.js;JS
+FILE;586;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-ca.js;JS
+FILE;585;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-au.js;JS
+FILE;584;sm-shop/src/main/webapp/resources/js/ckeditor/lang/el.js;JS
+FILE;583;sm-shop/src/main/webapp/resources/js/ckeditor/lang/de.js;JS
+FILE;582;sm-shop/src/main/webapp/resources/js/ckeditor/lang/da.js;JS
+FILE;581;sm-shop/src/main/webapp/resources/js/ckeditor/lang/cy.js;JS
+FILE;580;sm-shop/src/main/webapp/resources/js/ckeditor/lang/cs.js;JS
+FILE;579;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ca.js;JS
+FILE;578;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bs.js;JS
+FILE;577;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bn.js;JS
+FILE;576;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bg.js;JS
+FILE;575;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ar.js;JS
+FILE;574;sm-shop/src/main/webapp/resources/js/ckeditor/lang/af.js;JS
+FILE;573;sm-shop/src/main/webapp/resources/js/ckeditor/images/spacer.gif;
+FILE;570;sm-shop/src/main/webapp/resources/js/bootstrap/jquery.js;JS
+FILE;569;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap.min.js;JS
+FILE;568;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-typeahead.js;JS
+FILE;567;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-transition.js;JS
+FILE;566;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-tooltip.js;JS
+FILE;565;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-tab.js;JS
+FILE;564;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-scrollspy.js;JS
+FILE;563;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-popover.js;JS
+FILE;562;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-modal.js;JS
+FILE;561;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-dropdown.js;JS
+FILE;560;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-datepicker.js;JS
+FILE;559;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-collapse.js;JS
+FILE;558;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-carousel.js;JS
+FILE;557;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-button.js;JS
+FILE;556;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-alert.js;JS
+FILE;445;sm-shop/src/main/webapp/resources/img/twitter-transparent.png;
+FILE;444;sm-shop/src/main/webapp/resources/img/shopizer_small.png;
+FILE;443;sm-shop/src/main/webapp/resources/img/shopizer_small.jpg;
+FILE;442;sm-shop/src/main/webapp/resources/img/shopizer_resized_transparent.png;
+FILE;441;sm-shop/src/main/webapp/resources/img/loading.gif;
+FILE;440;sm-shop/src/main/webapp/resources/img/loading-bars.gif;
+FILE;439;sm-shop/src/main/webapp/resources/img/important-icon.png;
+FILE;438;sm-shop/src/main/webapp/resources/img/icon_success.png;
+FILE;437;sm-shop/src/main/webapp/resources/img/icon_red_on.gif;
+FILE;436;sm-shop/src/main/webapp/resources/img/icon_green_on.gif;
+FILE;435;sm-shop/src/main/webapp/resources/img/icon_error.png;
+FILE;434;sm-shop/src/main/webapp/resources/img/facebook-transparent.png;
+FILE;433;sm-shop/src/main/webapp/resources/img/cvv.jpg;
+FILE;432;sm-shop/src/main/webapp/resources/img/check.png;
+FILE;431;sm-shop/src/main/webapp/resources/img/blue_right_arrow.jpg;
+FILE;430;sm-shop/src/main/webapp/resources/img/ajax-loader.gif;
+FILE;529;sm-shop/src/main/webapp/resources/img/stars/star-on.png;
+FILE;528;sm-shop/src/main/webapp/resources/img/stars/star-off.png;
+FILE;527;sm-shop/src/main/webapp/resources/img/stars/star-half.png;
+FILE;526;sm-shop/src/main/webapp/resources/img/stars/cancel-on.png;
+FILE;525;sm-shop/src/main/webapp/resources/img/stars/cancel-off.png;
+FILE;524;sm-shop/src/main/webapp/resources/img/shipping/usps.jpg;
+FILE;523;sm-shop/src/main/webapp/resources/img/shipping/ups.jpg;
+FILE;522;sm-shop/src/main/webapp/resources/img/shipping/fedEx.gif;
+FILE;521;sm-shop/src/main/webapp/resources/img/shipping/canadapost.jpg;
+FILE;451;sm-shop/src/main/webapp/resources/img/payment/moneyorder.gif;
+FILE;450;sm-shop/src/main/webapp/resources/img/payment/icon-paypal.png;
+FILE;449;sm-shop/src/main/webapp/resources/img/payment/beanstream.gif;
+FILE;448;sm-shop/src/main/webapp/resources/img/payment/authorizenet_logo.gif;
+FILE;520;sm-shop/src/main/webapp/resources/img/payment/icons/visa-straight-64px.png;
+FILE;519;sm-shop/src/main/webapp/resources/img/payment/icons/visa-straight-32px.png;
+FILE;518;sm-shop/src/main/webapp/resources/img/payment/icons/visa-straight-128px.png;
+FILE;517;sm-shop/src/main/webapp/resources/img/payment/icons/visa-curved-64px.png;
+FILE;516;sm-shop/src/main/webapp/resources/img/payment/icons/visa-curved-32px.png;
+FILE;515;sm-shop/src/main/webapp/resources/img/payment/icons/visa-curved-128px.png;
+FILE;514;sm-shop/src/main/webapp/resources/img/payment/icons/switch-straight-64px.png;
+FILE;513;sm-shop/src/main/webapp/resources/img/payment/icons/switch-straight-32px.png;
+FILE;512;sm-shop/src/main/webapp/resources/img/payment/icons/switch-straight-128px.png;
+FILE;511;sm-shop/src/main/webapp/resources/img/payment/icons/switch-curved-64px.png;
+FILE;510;sm-shop/src/main/webapp/resources/img/payment/icons/switch-curved-32px.png;
+FILE;509;sm-shop/src/main/webapp/resources/img/payment/icons/switch-curved-128px.png;
+FILE;508;sm-shop/src/main/webapp/resources/img/payment/icons/solo-straight-64px.png;
+FILE;507;sm-shop/src/main/webapp/resources/img/payment/icons/solo-straight-32px.png;
+FILE;506;sm-shop/src/main/webapp/resources/img/payment/icons/solo-straight-128px.png;
+FILE;505;sm-shop/src/main/webapp/resources/img/payment/icons/solo-curved-64px.png;
+FILE;504;sm-shop/src/main/webapp/resources/img/payment/icons/solo-curved-32px.png;
+FILE;503;sm-shop/src/main/webapp/resources/img/payment/icons/solo-curved-128px.png;
+FILE;502;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-straight-64px.png;
+FILE;501;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-straight-32px.png;
+FILE;500;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-straight-128px.png;
+FILE;499;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-curved-64px.png;
+FILE;498;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-curved-32px.png;
+FILE;497;sm-shop/src/main/webapp/resources/img/payment/icons/sagepay-curved-128px.png;
+FILE;496;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-straight-64px.png;
+FILE;495;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-straight-32px.png;
+FILE;494;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-straight-128px.png;
+FILE;493;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-curved-64px.png;
+FILE;492;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-curved-32px.png;
+FILE;491;sm-shop/src/main/webapp/resources/img/payment/icons/paypal-curved-128px.png;
+FILE;490;sm-shop/src/main/webapp/resources/img/payment/icons/mastercard-curved-64px.png;
+FILE;489;sm-shop/src/main/webapp/resources/img/payment/icons/mastercard-curved-32px.png;
+FILE;488;sm-shop/src/main/webapp/resources/img/payment/icons/mastercard-curved-128px.png;
+FILE;487;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-straight-64px.png;
+FILE;486;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-straight-32px.png;
+FILE;485;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-straight-128px.png;
+FILE;484;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-curved-64px.png;
+FILE;483;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-curved-32px.png;
+FILE;482;sm-shop/src/main/webapp/resources/img/payment/icons/maestro-curved-128px.png;
+FILE;481;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-straight-64px.png;
+FILE;480;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-straight-32px.png;
+FILE;479;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-straight-128px.png;
+FILE;478;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-curved-64px.png;
+FILE;477;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-curved-32px.png;
+FILE;476;sm-shop/src/main/webapp/resources/img/payment/icons/ebay-curved-128px.png;
+FILE;475;sm-shop/src/main/webapp/resources/img/payment/icons/discover-straight-64px.png;
+FILE;474;sm-shop/src/main/webapp/resources/img/payment/icons/discover-straight-32px.png;
+FILE;473;sm-shop/src/main/webapp/resources/img/payment/icons/discover-straight-128px.png;
+FILE;472;sm-shop/src/main/webapp/resources/img/payment/icons/discover-curved-64px.png;
+FILE;471;sm-shop/src/main/webapp/resources/img/payment/icons/discover-curved-32px.png;
+FILE;470;sm-shop/src/main/webapp/resources/img/payment/icons/discover-curved-128px.png;
+FILE;469;sm-shop/src/main/webapp/resources/img/payment/icons/delta-straight-64px.png;
+FILE;468;sm-shop/src/main/webapp/resources/img/payment/icons/delta-straight-32px.png;
+FILE;467;sm-shop/src/main/webapp/resources/img/payment/icons/delta-straight-128px.png;
+FILE;466;sm-shop/src/main/webapp/resources/img/payment/icons/delta-curved-64px.png;
+FILE;465;sm-shop/src/main/webapp/resources/img/payment/icons/delta-curved-32px.png;
+FILE;464;sm-shop/src/main/webapp/resources/img/payment/icons/delta-curved-128px.png;
+FILE;463;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-straight-64px.png;
+FILE;462;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-straight-32px.png;
+FILE;461;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-straight-128px.png;
+FILE;460;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-curved-64px.png;
+FILE;459;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-curved-32px.png;
+FILE;458;sm-shop/src/main/webapp/resources/img/payment/icons/cirrus-curved-128px.png;
+FILE;457;sm-shop/src/main/webapp/resources/img/payment/icons/amex-straight-32px.png;
+FILE;456;sm-shop/src/main/webapp/resources/img/payment/icons/2checkout-straight-64px.png;
+FILE;455;sm-shop/src/main/webapp/resources/img/payment/icons/2checkout-straight-32px.png;
+FILE;454;sm-shop/src/main/webapp/resources/img/payment/icons/2checkout-curved-64px.png;
+FILE;453;sm-shop/src/main/webapp/resources/img/payment/icons/2checkout-curved-32px.png;
+FILE;452;sm-shop/src/main/webapp/resources/img/payment/icons/2checkout-curved-128px.png;
+FILE;447;sm-shop/src/main/webapp/resources/img/admin/remove.png;
+FILE;446;sm-shop/src/main/webapp/resources/img/admin/login-box-backg.png;
+FILE;384;sm-shop/src/main/webapp/resources/css/sm.css;
+FILE;383;sm-shop/src/main/webapp/resources/css/showLoading.css;
+FILE;382;sm-shop/src/main/webapp/resources/css/shopizer-admin.css;
+FILE;429;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_variables.scss;
+FILE;428;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_stacked.scss;
+FILE;427;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_spinning.scss;
+FILE;426;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_rotated-flipped.scss;
+FILE;425;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_path.scss;
+FILE;424;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_mixins.scss;
+FILE;423;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_list.scss;
+FILE;422;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_larger.scss;
+FILE;421;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_icons.scss;
+FILE;420;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_fixed-width.scss;
+FILE;419;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_extras.scss;
+FILE;418;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_core.scss;
+FILE;417;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_bordered-pulled.scss;
+FILE;416;sm-shop/src/main/webapp/resources/css/font-awesome/scss/_bootstrap.scss;
+FILE;415;sm-shop/src/main/webapp/resources/css/font-awesome/scss/font-awesome.scss;
+FILE;414;sm-shop/src/main/webapp/resources/css/font-awesome/scss/font-awesome-ie7.scss;
+FILE;413;sm-shop/src/main/webapp/resources/css/font-awesome/less/variables.less;
+FILE;412;sm-shop/src/main/webapp/resources/css/font-awesome/less/stacked.less;
+FILE;411;sm-shop/src/main/webapp/resources/css/font-awesome/less/spinning.less;
+FILE;410;sm-shop/src/main/webapp/resources/css/font-awesome/less/rotated-flipped.less;
+FILE;409;sm-shop/src/main/webapp/resources/css/font-awesome/less/path.less;
+FILE;408;sm-shop/src/main/webapp/resources/css/font-awesome/less/mixins.less;
+FILE;407;sm-shop/src/main/webapp/resources/css/font-awesome/less/list.less;
+FILE;406;sm-shop/src/main/webapp/resources/css/font-awesome/less/larger.less;
+FILE;405;sm-shop/src/main/webapp/resources/css/font-awesome/less/icons.less;
+FILE;404;sm-shop/src/main/webapp/resources/css/font-awesome/less/font-awesome.less;
+FILE;403;sm-shop/src/main/webapp/resources/css/font-awesome/less/font-awesome-ie7.less;
+FILE;402;sm-shop/src/main/webapp/resources/css/font-awesome/less/fixed-width.less;
+FILE;401;sm-shop/src/main/webapp/resources/css/font-awesome/less/extras.less;
+FILE;400;sm-shop/src/main/webapp/resources/css/font-awesome/less/core.less;
+FILE;399;sm-shop/src/main/webapp/resources/css/font-awesome/less/bordered-pulled.less;
+FILE;398;sm-shop/src/main/webapp/resources/css/font-awesome/less/bootstrap.less;
+FILE;397;sm-shop/src/main/webapp/resources/css/font-awesome/fonts/FontAwesome.otf;
+FILE;396;sm-shop/src/main/webapp/resources/css/font-awesome/font/FontAwesome.otf;
+FILE;395;sm-shop/src/main/webapp/resources/css/font-awesome/font/fontawesome-webfont.ttf;
+FILE;394;sm-shop/src/main/webapp/resources/css/font-awesome/font/fontawesome-webfont.svg;
+FILE;393;sm-shop/src/main/webapp/resources/css/font-awesome/font/fontawesome-webfont.eot;
+FILE;392;sm-shop/src/main/webapp/resources/css/font-awesome/css/font-awesome.min.css;
+FILE;391;sm-shop/src/main/webapp/resources/css/font-awesome/css/font-awesome.css;
+FILE;390;sm-shop/src/main/webapp/resources/css/font-awesome/css/font-awesome-ie7.min.css;
+FILE;389;sm-shop/src/main/webapp/resources/css/font-awesome/css/font-awesome-ie7.css;
+FILE;388;sm-shop/src/main/webapp/resources/css/bootstrap/img/glyphicons-halflings.png;
+FILE;387;sm-shop/src/main/webapp/resources/css/bootstrap/css/sm-bootstrap.css;
+FILE;386;sm-shop/src/main/webapp/resources/css/bootstrap/css/sm-bootstrap-responsive.css;
+FILE;385;sm-shop/src/main/webapp/resources/css/bootstrap/css/datepicker.css;
+FILE;369;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/catalogLayout.jsp;JSP
+FILE;381;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/shopLinks.jsp;JSP
+FILE;380;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/productBox.jsp;JSP
+FILE;379;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/navbar.jsp;JSP
+FILE;378;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/jsLinks.jsp;JSP
+FILE;377;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/header.jsp;JSP
+FILE;376;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/footer.jsp;JSP
+FILE;375;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/breadcrumb.jsp;JSP
+FILE;374;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/search.jsp;JSP
+FILE;373;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/product.jsp;JSP
+FILE;372;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/landing.jsp;JSP
+FILE;371;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/customer.jsp;JSP
+FILE;370;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/category.jsp;JSP
+FILE;355;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/catalogLayout.jsp;JSP
+FILE;368;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/shopLinks.jsp;JSP
+FILE;367;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/productBox.jsp;JSP
+FILE;366;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/navbar.jsp;JSP
+FILE;365;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/jsLinks.jsp;JSP
+FILE;364;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/header.jsp;JSP
+FILE;363;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/footer.jsp;JSP
+FILE;362;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/breadcrumb.jsp;JSP
+FILE;361;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/search.jsp;JSP
+FILE;360;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/product.jsp;JSP
+FILE;359;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/landing.jsp;JSP
+FILE;358;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/customer.jsp;JSP
+FILE;357;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/content.jsp;JSP
+FILE;356;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/category.jsp;JSP
+FILE;328;sm-shop/src/main/webapp/pages/shop/common/timeout.jsp;JSP
+FILE;327;sm-shop/src/main/webapp/pages/shop/common/notFound.jsp;JSP
+FILE;354;sm-shop/src/main/webapp/pages/shop/common/preBuiltBlocks/storeAddress.jsp;JSP
+FILE;353;sm-shop/src/main/webapp/pages/shop/common/preBuiltBlocks/customerAddress.jsp;JSP
+FILE;352;sm-shop/src/main/webapp/pages/shop/common/merchant/contactus.jsp;JSP
+FILE;351;sm-shop/src/main/webapp/pages/shop/common/customer/register.jsp;JSP
+FILE;350;sm-shop/src/main/webapp/pages/shop/common/customer/orders.jsp;JSP
+FILE;349;sm-shop/src/main/webapp/pages/shop/common/customer/order.jsp;JSP
+FILE;348;sm-shop/src/main/webapp/pages/shop/common/customer/logon.jsp;JSP
+FILE;347;sm-shop/src/main/webapp/pages/shop/common/customer/editAddress.jsp;JSP
+FILE;346;sm-shop/src/main/webapp/pages/shop/common/customer/dashboard.jsp;JSP
+FILE;345;sm-shop/src/main/webapp/pages/shop/common/customer/customerProfileMenu.jsp;JSP
+FILE;344;sm-shop/src/main/webapp/pages/shop/common/customer/customerOrdersMenu.jsp;JSP
+FILE;343;sm-shop/src/main/webapp/pages/shop/common/customer/changePassword.jsp;JSP
+FILE;342;sm-shop/src/main/webapp/pages/shop/common/customer/address.jsp;JSP
+FILE;341;sm-shop/src/main/webapp/pages/shop/common/checkout/selectedPayment.jsp;JSP
+FILE;340;sm-shop/src/main/webapp/pages/shop/common/checkout/paypal.jsp;JSP
+FILE;339;sm-shop/src/main/webapp/pages/shop/common/checkout/moneyorder.jsp;JSP
+FILE;338;sm-shop/src/main/webapp/pages/shop/common/checkout/creditcard.jsp;JSP
+FILE;337;sm-shop/src/main/webapp/pages/shop/common/checkout/confirmation.jsp;JSP
+FILE;336;sm-shop/src/main/webapp/pages/shop/common/checkout/checkout.jsp;JSP
+FILE;335;sm-shop/src/main/webapp/pages/shop/common/catalog/reviews.jsp;JSP
+FILE;334;sm-shop/src/main/webapp/pages/shop/common/catalog/review.jsp;JSP
+FILE;333;sm-shop/src/main/webapp/pages/shop/common/catalog/rating.jsp;JSP
+FILE;332;sm-shop/src/main/webapp/pages/shop/common/catalog/addToCartProduct.jsp;JSP
+FILE;331;sm-shop/src/main/webapp/pages/shop/common/cart/minicartinfo.jsp;JSP
+FILE;330;sm-shop/src/main/webapp/pages/shop/common/cart/minicart.jsp;JSP
+FILE;329;sm-shop/src/main/webapp/pages/shop/common/cart/cart.jsp;JSP
+FILE;217;sm-shop/src/main/webapp/pages/admin/home.jsp;JSP
+FILE;326;sm-shop/src/main/webapp/pages/admin/tax/taxRates.jsp;JSP
+FILE;325;sm-shop/src/main/webapp/pages/admin/tax/taxRates-gridHeader.jsp;JSP
+FILE;324;sm-shop/src/main/webapp/pages/admin/tax/taxRateDetails.jsp;JSP
+FILE;323;sm-shop/src/main/webapp/pages/admin/tax/taxConfiguration.jsp;JSP
+FILE;322;sm-shop/src/main/webapp/pages/admin/tax/taxClassDetails.jsp;JSP
+FILE;321;sm-shop/src/main/webapp/pages/admin/tax/taxClass.jsp;JSP
+FILE;320;sm-shop/src/main/webapp/pages/admin/tax/taxClass-gridHeader.jsp;JSP
+FILE;319;sm-shop/src/main/webapp/pages/admin/shipping/weightBasedDetails-gridHeader.jsp;JSP
+FILE;318;sm-shop/src/main/webapp/pages/admin/shipping/weightBased.jsp;JSP
+FILE;317;sm-shop/src/main/webapp/pages/admin/shipping/weightBased-gridHeader.jsp;JSP
+FILE;316;sm-shop/src/main/webapp/pages/admin/shipping/usps.jsp;JSP
+FILE;315;sm-shop/src/main/webapp/pages/admin/shipping/ups.jsp;JSP
+FILE;314;sm-shop/src/main/webapp/pages/admin/shipping/shippingOrigin.jsp;JSP
+FILE;313;sm-shop/src/main/webapp/pages/admin/shipping/shippingOptions.jsp;JSP
+FILE;312;sm-shop/src/main/webapp/pages/admin/shipping/shippingMethods.jsp;JSP
+FILE;311;sm-shop/src/main/webapp/pages/admin/shipping/shippingMethod.jsp;JSP
+FILE;310;sm-shop/src/main/webapp/pages/admin/shipping/shippingConfig.jsp;JSP
+FILE;309;sm-shop/src/main/webapp/pages/admin/shipping/shipping-countries-gridHeader.jsp;JSP
+FILE;308;sm-shop/src/main/webapp/pages/admin/shipping/packaging.jsp;JSP
+FILE;307;sm-shop/src/main/webapp/pages/admin/shipping/customShippingDetails.jsp;JSP
+FILE;306;sm-shop/src/main/webapp/pages/admin/shipping/customQuotesRules.jsp;JSP
+FILE;305;sm-shop/src/main/webapp/pages/admin/shipping/canadapost.jsp;JSP
+FILE;304;sm-shop/src/main/webapp/pages/admin/profile/users.jsp;JSP
+FILE;303;sm-shop/src/main/webapp/pages/admin/profile/users-gridHeader.jsp;JSP
+FILE;302;sm-shop/src/main/webapp/pages/admin/profile/profile.jsp;JSP
+FILE;301;sm-shop/src/main/webapp/pages/admin/profile/permissions.jsp;JSP
+FILE;300;sm-shop/src/main/webapp/pages/admin/profile/permissions-gridHeader.jsp;JSP
+FILE;299;sm-shop/src/main/webapp/pages/admin/profile/permission.jsp;JSP
+FILE;298;sm-shop/src/main/webapp/pages/admin/profile/password.jsp;JSP
+FILE;297;sm-shop/src/main/webapp/pages/admin/profile/groups.jsp;JSP
+FILE;296;sm-shop/src/main/webapp/pages/admin/profile/groups-gridHeader.jsp;JSP
+FILE;295;sm-shop/src/main/webapp/pages/admin/profile/group.jsp;JSP
+FILE;294;sm-shop/src/main/webapp/pages/admin/products/reviews.jsp;JSP
+FILE;293;sm-shop/src/main/webapp/pages/admin/products/reviews-gridHeader.jsp;JSP
+FILE;292;sm-shop/src/main/webapp/pages/admin/products/related.jsp;JSP
+FILE;291;sm-shop/src/main/webapp/pages/admin/products/productsCategories.jsp;JSP
+FILE;290;sm-shop/src/main/webapp/pages/admin/products/products.jsp;JSP
+FILE;289;sm-shop/src/main/webapp/pages/admin/products/productImages.jsp;JSP
+FILE;288;sm-shop/src/main/webapp/pages/admin/products/product.jsp;JSP
+FILE;287;sm-shop/src/main/webapp/pages/admin/products/product-menu.jsp;JSP
+FILE;286;sm-shop/src/main/webapp/pages/admin/products/product-gridHeader.jsp;JSP
+FILE;285;sm-shop/src/main/webapp/pages/admin/products/product-categories-gridHeader.jsp;JSP
+FILE;284;sm-shop/src/main/webapp/pages/admin/products/prices.jsp;JSP
+FILE;283;sm-shop/src/main/webapp/pages/admin/products/prices-gridHeader.jsp;JSP
+FILE;282;sm-shop/src/main/webapp/pages/admin/products/price.jsp;JSP
+FILE;281;sm-shop/src/main/webapp/pages/admin/products/optionValue.jsp;JSP
+FILE;280;sm-shop/src/main/webapp/pages/admin/products/optionsValues.jsp;JSP
+FILE;279;sm-shop/src/main/webapp/pages/admin/products/optionsValues-gridHeader.jsp;JSP
+FILE;278;sm-shop/src/main/webapp/pages/admin/products/options.jsp;JSP
+FILE;277;sm-shop/src/main/webapp/pages/admin/products/options-gridHeader.jsp;JSP
+FILE;276;sm-shop/src/main/webapp/pages/admin/products/option.jsp;JSP
+FILE;275;sm-shop/src/main/webapp/pages/admin/products/manufacturers.jsp;JSP
+FILE;274;sm-shop/src/main/webapp/pages/admin/products/manufacturers-gridHeader.jsp;JSP
+FILE;273;sm-shop/src/main/webapp/pages/admin/products/manufacturer.jsp;JSP
+FILE;272;sm-shop/src/main/webapp/pages/admin/products/keywords.jsp;JSP
+FILE;271;sm-shop/src/main/webapp/pages/admin/products/keywords-gridHeader.jsp;JSP
+FILE;270;sm-shop/src/main/webapp/pages/admin/products/featured.jsp;JSP
+FILE;269;sm-shop/src/main/webapp/pages/admin/products/featured-gridHeader.jsp;JSP
+FILE;268;sm-shop/src/main/webapp/pages/admin/products/digitalProduct.jsp;JSP
+FILE;267;sm-shop/src/main/webapp/pages/admin/products/customProductGroupDetails.jsp;JSP
+FILE;266;sm-shop/src/main/webapp/pages/admin/products/customProductGroup.jsp;JSP
+FILE;265;sm-shop/src/main/webapp/pages/admin/products/customProductGroup-gridHeader.jsp;JSP
+FILE;264;sm-shop/src/main/webapp/pages/admin/products/attributes.jsp;JSP
+FILE;263;sm-shop/src/main/webapp/pages/admin/products/attributes-gridHeader.jsp;JSP
+FILE;262;sm-shop/src/main/webapp/pages/admin/products/attribute.jsp;JSP
+FILE;261;sm-shop/src/main/webapp/pages/admin/payment/paypal.jsp;JSP
+FILE;260;sm-shop/src/main/webapp/pages/admin/payment/paypal-express-checkout.jsp;JSP
+FILE;259;sm-shop/src/main/webapp/pages/admin/payment/paymentMethods.jsp;JSP
+FILE;258;sm-shop/src/main/webapp/pages/admin/payment/paymentMethod.jsp;JSP
+FILE;257;sm-shop/src/main/webapp/pages/admin/payment/moneyorder.jsp;JSP
+FILE;256;sm-shop/src/main/webapp/pages/admin/payment/beanstream.jsp;JSP
+FILE;255;sm-shop/src/main/webapp/pages/admin/orders/transactions.jsp;JSP
+FILE;254;sm-shop/src/main/webapp/pages/admin/orders/orders.jsp;JSP
+FILE;253;sm-shop/src/main/webapp/pages/admin/orders/orders-gridHeader.jsp;JSP
+FILE;252;sm-shop/src/main/webapp/pages/admin/orders/order.jsp;JSP
+FILE;251;sm-shop/src/main/webapp/pages/admin/merchant/stores.jsp;JSP
+FILE;250;sm-shop/src/main/webapp/pages/admin/merchant/stores-gridHeader.jsp;JSP
+FILE;249;sm-shop/src/main/webapp/pages/admin/merchant/storeLanding.jsp;JSP
+FILE;248;sm-shop/src/main/webapp/pages/admin/merchant/merchant.jsp;JSP
+FILE;247;sm-shop/src/main/webapp/pages/admin/merchant/branding.jsp;JSP
+FILE;246;sm-shop/src/main/webapp/pages/admin/customers/optionValue.jsp;JSP
+FILE;245;sm-shop/src/main/webapp/pages/admin/customers/optionsValues.jsp;JSP
+FILE;244;sm-shop/src/main/webapp/pages/admin/customers/optionsValues-gridHeader.jsp;JSP
+FILE;243;sm-shop/src/main/webapp/pages/admin/customers/optionsset.jsp;JSP
+FILE;242;sm-shop/src/main/webapp/pages/admin/customers/optionsset-gridHeader.jsp;JSP
+FILE;241;sm-shop/src/main/webapp/pages/admin/customers/options.jsp;JSP
+FILE;240;sm-shop/src/main/webapp/pages/admin/customers/options-gridHeader.jsp;JSP
+FILE;239;sm-shop/src/main/webapp/pages/admin/customers/option.jsp;JSP
+FILE;238;sm-shop/src/main/webapp/pages/admin/customers/customers.jsp;JSP
+FILE;237;sm-shop/src/main/webapp/pages/admin/customers/customers-gridHeader.jsp;JSP
+FILE;236;sm-shop/src/main/webapp/pages/admin/customers/customer.jsp;JSP
+FILE;235;sm-shop/src/main/webapp/pages/admin/content/contentPagesDetails.jsp;JSP
+FILE;234;sm-shop/src/main/webapp/pages/admin/content/contentPages.jsp;JSP
+FILE;233;sm-shop/src/main/webapp/pages/admin/content/contentImages.jsp;JSP
+FILE;232;sm-shop/src/main/webapp/pages/admin/content/contentFiles.jsp;JSP
+FILE;231;sm-shop/src/main/webapp/pages/admin/content/contentFiles-gridHeader.jsp;JSP
+FILE;230;sm-shop/src/main/webapp/pages/admin/content/content-gridHeader.jsp;JSP
+FILE;229;sm-shop/src/main/webapp/pages/admin/configuration/system.jsp;JSP
+FILE;228;sm-shop/src/main/webapp/pages/admin/configuration/email.jsp;JSP
+FILE;227;sm-shop/src/main/webapp/pages/admin/configuration/cacheManagement.jsp;JSP
+FILE;226;sm-shop/src/main/webapp/pages/admin/configuration/accounts.jsp;JSP
+FILE;225;sm-shop/src/main/webapp/pages/admin/components/product-container.jsp;JSP
+FILE;224;sm-shop/src/main/webapp/pages/admin/components/list.jsp;JSP
+FILE;223;sm-shop/src/main/webapp/pages/admin/components/images-list.jsp;JSP
+FILE;222;sm-shop/src/main/webapp/pages/admin/components/fileBrowser.jsp;JSP
+FILE;221;sm-shop/src/main/webapp/pages/admin/categories/hierarchy.jsp;JSP
+FILE;220;sm-shop/src/main/webapp/pages/admin/categories/category.jsp;JSP
+FILE;219;sm-shop/src/main/webapp/pages/admin/categories/categories.jsp;JSP
+FILE;218;sm-shop/src/main/webapp/pages/admin/categories/categories-gridHeader.jsp;JSP
+FILE;216;sm-shop/src/main/webapp/layout/admin/noSkinLayout.jsp;JSP
+FILE;215;sm-shop/src/main/webapp/layout/admin/layout.jsp;JSP
+FILE;214;sm-shop/src/main/webapp/common/adminTabs.jsp;JSP
+FILE;213;sm-shop/src/main/webapp/common/adminLinks.jsp;JSP
+FILE;203;sm-shop/src/main/resources/log4j.xml;
+FILE;202;sm-shop/src/main/resources/database.properties;
+FILE;212;sm-shop/src/main/resources/bundles/shopizer_fr.properties;
+FILE;211;sm-shop/src/main/resources/bundles/shopizer.properties;
+FILE;210;sm-shop/src/main/resources/bundles/shipping_fr.properties;
+FILE;209;sm-shop/src/main/resources/bundles/shipping.properties;
+FILE;208;sm-shop/src/main/resources/bundles/payment_fr.properties;
+FILE;207;sm-shop/src/main/resources/bundles/payment.properties;
+FILE;206;sm-shop/src/main/resources/bundles/messages_fr.properties;
+FILE;205;sm-shop/src/main/resources/bundles/messages.properties;
+FILE;204;sm-shop/src/main/resources/admin/menu.json;
+FILE;201;sm-shop/src/main/java/com/salesmanager/web/utils/WebApplicationCacheUtils.java;Java
+FILE;200;sm-shop/src/main/java/com/salesmanager/web/utils/UserUtils.java;Java
+FILE;199;sm-shop/src/main/java/com/salesmanager/web/utils/TokenizeTool.java;Java
+FILE;198;sm-shop/src/main/java/com/salesmanager/web/utils/SessionUtil.java;Java
+FILE;197;sm-shop/src/main/java/com/salesmanager/web/utils/PageBuilderUtils.java;Java
+FILE;196;sm-shop/src/main/java/com/salesmanager/web/utils/MerchantUtils.java;Java
+FILE;195;sm-shop/src/main/java/com/salesmanager/web/utils/LocaleUtils.java;Java
+FILE;194;sm-shop/src/main/java/com/salesmanager/web/utils/LanguageUtils.java;Java
+FILE;193;sm-shop/src/main/java/com/salesmanager/web/utils/LabelUtils.java;Java
+FILE;192;sm-shop/src/main/java/com/salesmanager/web/utils/ImageFilePathUtils.java;Java
+FILE;191;sm-shop/src/main/java/com/salesmanager/web/utils/GeoLocationUtils.java;Java
+FILE;190;sm-shop/src/main/java/com/salesmanager/web/utils/FilePathUtils.java;Java
+FILE;189;sm-shop/src/main/java/com/salesmanager/web/utils/FieldMatchValidator.java;Java
+FILE;188;sm-shop/src/main/java/com/salesmanager/web/utils/FieldMatch.java;Java
+FILE;187;sm-shop/src/main/java/com/salesmanager/web/utils/EmailUtils.java;Java
+FILE;186;sm-shop/src/main/java/com/salesmanager/web/utils/EmailTemplatesUtils.java;Java
+FILE;185;sm-shop/src/main/java/com/salesmanager/web/utils/DateUtil.java;Java
+FILE;184;sm-shop/src/main/java/com/salesmanager/web/utils/BreadcrumbsUtils.java;Java
+FILE;183;sm-shop/src/main/java/com/salesmanager/web/utils/BeanUtils.java;Java
+FILE;182;sm-shop/src/main/java/com/salesmanager/web/utils/AppConfiguration.java;Java
+FILE;181;sm-shop/src/main/java/com/salesmanager/web/utils/AdminAccessDeniedHandler.java;Java
+FILE;180;sm-shop/src/main/java/com/salesmanager/web/tags/StoreLogoUrlTag.java;Java
+FILE;179;sm-shop/src/main/java/com/salesmanager/web/tags/StoreFooterlTag.java;Java
+FILE;178;sm-shop/src/main/java/com/salesmanager/web/tags/StoreBreadcrumbsTag.java;Java
+FILE;177;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductRelationshipTag.java;Java
+FILE;176;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductPriceFormatTag.java;Java
+FILE;175;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductImageUrlTag.java;Java
+FILE;174;sm-shop/src/main/java/com/salesmanager/web/tags/ProductImageUrlTag.java;Java
+FILE;173;sm-shop/src/main/java/com/salesmanager/web/tags/ProductDescriptionUrlTag.java;Java
+FILE;172;sm-shop/src/main/java/com/salesmanager/web/tags/PageContentTag.java;Java
+FILE;171;sm-shop/src/main/java/com/salesmanager/web/tags/OrderProductDownloadUrlTag.java;Java
+FILE;170;sm-shop/src/main/java/com/salesmanager/web/tags/ManufacturerImageUrlTag.java;Java
+FILE;169;sm-shop/src/main/java/com/salesmanager/web/tags/ContentImageUrlTag.java;Java
+FILE;168;sm-shop/src/main/java/com/salesmanager/web/tags/AdminProductDownloadUrlTag.java;Java
+FILE;167;sm-shop/src/main/java/com/salesmanager/web/tags/ActiveLinkTag.java;Java
+FILE;166;sm-shop/src/main/java/com/salesmanager/web/shop/model/filter/QueryFilter.java;Java
+FILE;165;sm-shop/src/main/java/com/salesmanager/web/shop/model/catalog/Attribute.java;Java
+FILE;164;sm-shop/src/main/java/com/salesmanager/web/reference/ReferenceController.java;Java
+FILE;163;sm-shop/src/main/java/com/salesmanager/web/init/data/InitStoreData.java;Java
+FILE;162;sm-shop/src/main/java/com/salesmanager/web/init/data/InitializationLoader.java;Java
+FILE;161;sm-shop/src/main/java/com/salesmanager/web/init/data/InitData.java;Java
+FILE;160;sm-shop/src/main/java/com/salesmanager/web/images/ImagesController.java;Java
+FILE;159;sm-shop/src/main/java/com/salesmanager/web/filter/StoreFilter.java;Java
+FILE;158;sm-shop/src/main/java/com/salesmanager/web/filter/AdminFilter.java;Java
+FILE;157;sm-shop/src/main/java/com/salesmanager/web/files/FilesController.java;Java
+FILE;132;sm-shop/src/main/java/com/salesmanager/web/entity/ShopEntity.java;Java
+FILE;131;sm-shop/src/main/java/com/salesmanager/web/entity/ServiceEntity.java;Java
+FILE;130;sm-shop/src/main/java/com/salesmanager/web/entity/Entity.java;Java
+FILE;156;sm-shop/src/main/java/com/salesmanager/web/entity/shop/PageInformation.java;Java
+FILE;155;sm-shop/src/main/java/com/salesmanager/web/entity/shop/ContactForm.java;Java
+FILE;154;sm-shop/src/main/java/com/salesmanager/web/entity/shop/BreadcrumbItemType.java;Java
+FILE;153;sm-shop/src/main/java/com/salesmanager/web/entity/shop/BreadcrumbItem.java;Java
+FILE;152;sm-shop/src/main/java/com/salesmanager/web/entity/shop/Breadcrumb.java;Java
+FILE;151;sm-shop/src/main/java/com/salesmanager/web/entity/order/ShopOrder.java;Java
+FILE;150;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableShopOrder.java;Java
+FILE;149;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrderTotal.java;Java
+FILE;148;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrderList.java;Java
+FILE;147;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrder.java;Java
+FILE;146;sm-shop/src/main/java/com/salesmanager/web/entity/order/PersistableOrder.java;Java
+FILE;145;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderTotal.java;Java
+FILE;144;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderProductEntity.java;Java
+FILE;143;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderProduct.java;Java
+FILE;142;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderEntity.java;Java
+FILE;141;sm-shop/src/main/java/com/salesmanager/web/entity/order/Order.java;Java
+FILE;140;sm-shop/src/main/java/com/salesmanager/web/entity/customer/SecuredCustomer.java;Java
+FILE;139;sm-shop/src/main/java/com/salesmanager/web/entity/customer/CustomerEntity.java;Java
+FILE;138;sm-shop/src/main/java/com/salesmanager/web/entity/customer/Customer.java;Java
+FILE;137;sm-shop/src/main/java/com/salesmanager/web/entity/customer/Address.java;Java
+FILE;135;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/ReadableImage.java;Java
+FILE;134;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/ProductList.java;Java
+FILE;133;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/CatalogEntity.java;Java
+FILE;136;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/product/Product.java;Java
+FILE;129;sm-shop/src/main/java/com/salesmanager/web/constants/EmailConstants.java;Java
+FILE;128;sm-shop/src/main/java/com/salesmanager/web/constants/Constants.java;Java
+FILE;127;sm-shop/src/main/java/com/salesmanager/web/constants/ApplicationConstants.java;Java
+FILE;126;sm-shop/src/main/java/com/salesmanager/web/admin/security/WebUserServices.java;Java
+FILE;125;sm-shop/src/main/java/com/salesmanager/web/admin/security/UserServicesImpl.java;Java
+FILE;124;sm-shop/src/main/java/com/salesmanager/web/admin/security/SecurityQuestion.java;Java
+FILE;123;sm-shop/src/main/java/com/salesmanager/web/admin/entity/web/Menu.java;Java
+FILE;122;sm-shop/src/main/java/com/salesmanager/web/admin/entity/secutity/Password.java;Java
+FILE;121;sm-shop/src/main/java/com/salesmanager/web/admin/entity/reference/Weight.java;Java
+FILE;120;sm-shop/src/main/java/com/salesmanager/web/admin/entity/reference/Size.java;Java
+FILE;119;sm-shop/src/main/java/com/salesmanager/web/admin/entity/orders/Refund.java;Java
+FILE;118;sm-shop/src/main/java/com/salesmanager/web/admin/entity/orders/Order.java;Java
+FILE;117;sm-shop/src/main/java/com/salesmanager/web/admin/entity/catalog/Product.java;Java
+FILE;116;sm-shop/src/main/java/com/salesmanager/web/admin/entity/catalog/Keyword.java;Java
+FILE;112;sm-core-modules/pom.xml;
+FILE;111;sm-core-modules/.project;
+FILE;110;sm-core-modules/.classpath;
+FILE;106;sm-core-model/pom.xml;
+FILE;105;sm-core-model/.project;
+FILE;104;sm-core-model/.classpath;
+FILE;109;sm-core-model/src/main/java/com/salesmanager/core/utils/CloneUtils.java;Java
+FILE;108;sm-core-model/src/main/java/com/salesmanager/core/constants/SchemaConstant.java;Java
+FILE;107;sm-core-model/src/main/java/com/salesmanager/core/constants/MeasureUnit.java;Java
+FILE;5;sm-core/pom.xml;
+FILE;4;sm-core/.project;
+FILE;3;sm-core/.classpath;
+FILE;100;sm-core/src/test/resources/log4j.properties;
+FILE;99;sm-core/src/test/resources/hbm2dll.properties;
+FILE;98;sm-core/src/test/resources/database.properties;
+FILE;103;sm-core/src/test/resources/sql/create_schema.sql;PlSql:TSql
+FILE;102;sm-core/src/test/resources/spring/test-spring-context.xml;
+FILE;101;sm-core/src/test/resources/spring/test-datasource.xml;
+FILE;97;sm-core/src/test/java/com/salesmanager/test/utils/UtilsTestCase.java;Java
+FILE;96;sm-core/src/test/java/com/salesmanager/test/utils/ImportIntegrationModule.java;Java
+FILE;95;sm-core/src/test/java/com/salesmanager/test/utils/ExportSchema.java;Java
+FILE;94;sm-core/src/test/java/com/salesmanager/test/tax/TaxTestCase.java;Java
+FILE;93;sm-core/src/test/java/com/salesmanager/test/shipping/ShippingTestCase.java;Java
+FILE;92;sm-core/src/test/java/com/salesmanager/test/search/IndexProductTestCase.java;Java
+FILE;91;sm-core/src/test/java/com/salesmanager/test/payment/PaymentTestCase.java;Java
+FILE;90;sm-core/src/test/java/com/salesmanager/test/order/InvoiceTestCase.java;Java
+FILE;89;sm-core/src/test/java/com/salesmanager/test/isolated/TestSupportFactory.java;Java
+FILE;88;sm-core/src/test/java/com/salesmanager/test/isolated/IsolatedTestCase.java;Java
+FILE;87;sm-core/src/test/java/com/salesmanager/test/email/EmailTestCase.java;Java
+FILE;86;sm-core/src/test/java/com/salesmanager/test/content/WebsiteContentTestCase.java;Java
+FILE;85;sm-core/src/test/java/com/salesmanager/test/content/StaticContentTestCase.java;Java
+FILE;84;sm-core/src/test/java/com/salesmanager/test/content/ContentImagesTestCase.java;Java
+FILE;83;sm-core/src/test/java/com/salesmanager/test/catalog/ProductPriceTestCase.java;Java
+FILE;82;sm-core/src/test/java/com/salesmanager/test/catalog/ProductImagesTestCase.java;Java
+FILE;48;sm-core/src/main/resources/log4j.properties;
+FILE;47;sm-core/src/main/resources/email.properties;
+FILE;46;sm-core/src/main/resources/configs.properties;
+FILE;81;sm-core/src/main/resources/templates/invoice/Invoice_fr.ods;
+FILE;80;sm-core/src/main/resources/templates/invoice/Invoice.ods;
+FILE;79;sm-core/src/main/resources/templates/email/email_template_sentinvoice.ftl;
+FILE;78;sm-core/src/main/resources/templates/email/email_template_outofstock.ftl;
+FILE;77;sm-core/src/main/resources/templates/email/email_template_order_status.ftl;
+FILE;76;sm-core/src/main/resources/templates/email/email_template_notification.ftl;
+FILE;75;sm-core/src/main/resources/templates/email/email_template_new_user.ftl;
+FILE;74;sm-core/src/main/resources/templates/email/email_template_new_store.ftl;
+FILE;73;sm-core/src/main/resources/templates/email/email_template_new_review.ftl;
+FILE;72;sm-core/src/main/resources/templates/email/email_template_lowstock.ftl;
+FILE;71;sm-core/src/main/resources/templates/email/email_template_customer.ftl;
+FILE;70;sm-core/src/main/resources/templates/email/email_template_contact.ftl;
+FILE;69;sm-core/src/main/resources/templates/email/email_template_checkout_download.ftl;
+FILE;68;sm-core/src/main/resources/templates/email/email_template_checkout.ftl;
+FILE;67;sm-core/src/main/resources/spring/spring-context.xml;
+FILE;66;sm-core/src/main/resources/spring/shopizer-search.xml;
+FILE;65;sm-core/src/main/resources/spring/shopizer-core-rules.xml;
+FILE;64;sm-core/src/main/resources/spring/shopizer-core-modules.xml;
+FILE;63;sm-core/src/main/resources/spring/shopizer-core-ehcache.xml;
+FILE;62;sm-core/src/main/resources/spring/shopizer-core-config.xml;
+FILE;61;sm-core/src/main/resources/spring/datasource-c3p0.xml;
+FILE;60;sm-core/src/main/resources/search/settings_product_fr.json;
+FILE;59;sm-core/src/main/resources/search/settings_product.json;
+FILE;58;sm-core/src/main/resources/search/product_fr.json;
+FILE;57;sm-core/src/main/resources/search/product.json;
+FILE;56;sm-core/src/main/resources/rules/shipping-decision-rules.xls;
+FILE;55;sm-core/src/main/resources/rules/shipping-custom-rules.xls;
+FILE;54;sm-core/src/main/resources/reference/zoneconfig.json;
+FILE;53;sm-core/src/main/resources/reference/integrationmodules.json;
+FILE;52;sm-core/src/main/resources/reference/GeoLite2-Country.mmdb;
+FILE;51;sm-core/src/main/resources/META-INF/sm-persistence.xml;
+FILE;50;sm-core/src/main/resources/ehcache/smcore-ehcache.xml;
+FILE;49;sm-core/src/main/resources/cms/infinispan_configuration.xml;
+FILE;43;sm-core/src/main/java/com/salesmanager/core/utils/ProductUtils.java;Java
+FILE;42;sm-core/src/main/java/com/salesmanager/core/utils/ProductPriceUtils.java;Java
+FILE;41;sm-core/src/main/java/com/salesmanager/core/utils/ProductImageSizeUtils.java;Java
+FILE;40;sm-core/src/main/java/com/salesmanager/core/utils/ProductImageCropUtils.java;Java
+FILE;39;sm-core/src/main/java/com/salesmanager/core/utils/EntityPopulator.java;Java
+FILE;38;sm-core/src/main/java/com/salesmanager/core/utils/DataUtils.java;Java
+FILE;37;sm-core/src/main/java/com/salesmanager/core/utils/DataPopulator.java;Java
+FILE;36;sm-core/src/main/java/com/salesmanager/core/utils/CreditCardUtils.java;Java
+FILE;35;sm-core/src/main/java/com/salesmanager/core/utils/CoreConfiguration.java;Java
+FILE;34;sm-core/src/main/java/com/salesmanager/core/utils/CacheUtils.java;Java
+FILE;33;sm-core/src/main/java/com/salesmanager/core/utils/AbstractDataPopulator.java;Java
+FILE;45;sm-core/src/main/java/com/salesmanager/core/utils/reference/ZonesLoader.java;Java
+FILE;44;sm-core/src/main/java/com/salesmanager/core/utils/ajax/AjaxResponse.java;Java
+FILE;32;sm-core/src/main/java/com/salesmanager/core/modules/utils/GeoLocationImpl.java;Java
+FILE;31;sm-core/src/main/java/com/salesmanager/core/modules/utils/EncryptionImpl.java;Java
+FILE;30;sm-core/src/main/java/com/salesmanager/core/modules/order/ODSInvoiceModule.java;Java
+FILE;29;sm-core/src/main/java/com/salesmanager/core/modules/order/InvoiceModule.java;Java
+FILE;28;sm-core/src/main/java/com/salesmanager/core/modules/email/HtmlEmailSender.java;Java
+FILE;27;sm-core/src/main/java/com/salesmanager/core/modules/email/EmailConfig.java;Java
+FILE;26;sm-core/src/main/java/com/salesmanager/core/modules/email/Email.java;Java
+FILE;25;sm-core/src/main/java/com/salesmanager/core/modules/cms/impl/CacheManager.java;Java
+FILE;24;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/ImagePut.java;Java
+FILE;23;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FileRemove.java;Java
+FILE;22;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FilePut.java;Java
+FILE;21;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FileGet.java;Java
+FILE;20;sm-core/src/main/java/com/salesmanager/core/modules/cms/common/ImageRemove.java;Java
+FILE;19;sm-core/src/main/java/com/salesmanager/core/modules/cms/common/ImageGet.java;Java
+FILE;18;sm-core/src/main/java/com/salesmanager/core/constants/SystemConstants.java;Java
+FILE;17;sm-core/src/main/java/com/salesmanager/core/constants/ShippingConstants.java;Java
+FILE;16;sm-core/src/main/java/com/salesmanager/core/constants/Constants.java;Java
+FILE;15;sm-core/src/main/java/com/salesmanager/core/business/user/model/User.java;Java
+FILE;14;sm-core/src/main/java/com/salesmanager/core/business/user/model/Permission.java;Java
+FILE;13;sm-core/src/main/java/com/salesmanager/core/business/user/model/GroupType.java;Java
+FILE;12;sm-core/src/main/java/com/salesmanager/core/business/user/model/Group.java;Java
+FILE;11;sm-core/src/main/java/com/salesmanager/core/business/user/dao/UserDaoImpl.java;Java
+FILE;10;sm-core/src/main/java/com/salesmanager/core/business/user/dao/UserDao.java;Java
+FILE;9;sm-core/src/main/java/com/salesmanager/core/business/user/dao/GroupDaoImpl.java;Java
+FILE;8;sm-core/src/main/java/com/salesmanager/core/business/user/dao/GroupDao.java;Java
+FILE;7;sm-core/src/main/java/com/salesmanager/core/business/tax/model/TaxItem.java;Java
+FILE;6;sm-core/src/main/java/com/salesmanager/core/business/order/dao/OrderDao.java;Java
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/WebApplicationCacheUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/UserUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/TokenizeTool.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/SessionUtil.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/PageBuilderUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/MerchantUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/LocaleUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/LanguageUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/LabelUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/ImageFilePathUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/GeoLocationUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/FilePathUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/FieldMatchValidator.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/FieldMatch.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/EmailUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/EmailTemplatesUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/DateUtil.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/BreadcrumbsUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/BeanUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/AppConfiguration.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/utils/AdminAccessDeniedHandler.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/StoreLogoUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/StoreFooterlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/StoreBreadcrumbsTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductRelationshipTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductPriceFormatTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ShopProductImageUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ProductImageUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ProductDescriptionUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/PageContentTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/OrderProductDownloadUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ManufacturerImageUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ContentImageUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/AdminProductDownloadUrlTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/tags/ActiveLinkTag.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/shop/model/filter/QueryFilter.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/shop/model/catalog/Attribute.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/reference/ReferenceController.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/init/data/InitStoreData.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/init/data/InitializationLoader.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/init/data/InitData.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/images/ImagesController.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/filter/StoreFilter.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/filter/AdminFilter.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/files/FilesController.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/ShopEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/ServiceEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/Entity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/shop/PageInformation.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/shop/ContactForm.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/shop/BreadcrumbItemType.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/shop/BreadcrumbItem.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/shop/Breadcrumb.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/ShopOrder.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableShopOrder.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrderTotal.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrderList.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/ReadableOrder.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/PersistableOrder.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderTotal.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderProductEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderProduct.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/OrderEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/order/Order.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/customer/SecuredCustomer.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/customer/CustomerEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/customer/Customer.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/customer/Address.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/ReadableImage.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/ProductList.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/CatalogEntity.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/entity/catalog/product/Product.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/constants/EmailConstants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/constants/Constants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/constants/ApplicationConstants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/security/WebUserServices.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/security/UserServicesImpl.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/security/SecurityQuestion.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/web/Menu.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/secutity/Password.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/reference/Weight.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/reference/Size.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/orders/Refund.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/orders/Order.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/catalog/Product.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-shop/src/main/java/com/salesmanager/web/admin/entity/catalog/Keyword.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core-model/src/main/java/com/salesmanager/core/utils/CloneUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core-model/src/main/java/com/salesmanager/core/constants/SchemaConstant.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core-model/src/main/java/com/salesmanager/core/constants/MeasureUnit.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/utils/UtilsTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/utils/ImportIntegrationModule.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/utils/ExportSchema.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/tax/TaxTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/shipping/ShippingTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/search/IndexProductTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/payment/PaymentTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/order/InvoiceTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/isolated/TestSupportFactory.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/isolated/IsolatedTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/email/EmailTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/content/WebsiteContentTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/content/StaticContentTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/content/ContentImagesTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/catalog/ProductPriceTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/test/java/com/salesmanager/test/catalog/ProductImagesTestCase.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/ProductUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/ProductPriceUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/ProductImageSizeUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/ProductImageCropUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/EntityPopulator.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/DataUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/DataPopulator.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/CreditCardUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/CoreConfiguration.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/CacheUtils.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/AbstractDataPopulator.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/reference/ZonesLoader.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/utils/ajax/AjaxResponse.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/utils/GeoLocationImpl.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/utils/EncryptionImpl.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/order/ODSInvoiceModule.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/order/InvoiceModule.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/email/HtmlEmailSender.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/email/EmailConfig.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/email/Email.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/impl/CacheManager.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/ImagePut.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FileRemove.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FilePut.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/content/FileGet.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/common/ImageRemove.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/modules/cms/common/ImageGet.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/constants/SystemConstants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/constants/ShippingConstants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/constants/Constants.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/model/User.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/model/Permission.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/model/GroupType.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/model/Group.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/dao/UserDaoImpl.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/dao/UserDao.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/dao/GroupDaoImpl.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/user/dao/GroupDao.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/tax/model/TaxItem.java;Java;OK;
+STATUS;f86d2136-d672-40ae-a527-0bf36cefa1ff;sm-core/src/main/java/com/salesmanager/core/business/order/dao/OrderDao.java;Java;OK;
+STATUS;aee349d9-6c08-4b97-b5fb-bfd82f378356;sm-core/src/test/resources/sql/create_schema.sql;PlSql;Skip;Code not compliant with enough analysis criteria
+STATUS;50166e6b-94dc-46e6-aace-2f1e83de9535;sm-core/src/test/resources/sql/create_schema.sql;TSql;Skip;Code not compliant with enough analysis criteria
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/WEB-INF/views/shop.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/WEB-INF/views/error/generic_error.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/WEB-INF/views/error/access_denied.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/WEB-INF/views/admin/unauthorized.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/WEB-INF/views/admin/logon.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/resources/js/functions.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/catalogLayout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/shopLinks.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/productBox.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/navbar.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/jsLinks.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/header.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/footer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/sections/breadcrumb.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/search.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/product.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/landing.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/customer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap3/pages/category.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/catalogLayout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/shopLinks.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/productBox.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/navbar.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/jsLinks.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/header.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/footer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/sections/breadcrumb.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/search.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/product.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/landing.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/customer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/content.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/templates/bootstrap/pages/category.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/timeout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/notFound.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/preBuiltBlocks/storeAddress.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/preBuiltBlocks/customerAddress.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/merchant/contactus.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/register.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/orders.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/order.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/logon.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/editAddress.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/dashboard.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/customerProfileMenu.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/customerOrdersMenu.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/changePassword.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/customer/address.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/selectedPayment.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/paypal.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/moneyorder.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/creditcard.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/confirmation.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/checkout/checkout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/catalog/reviews.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/catalog/review.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/catalog/rating.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/catalog/addToCartProduct.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/cart/minicartinfo.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/cart/minicart.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/shop/common/cart/cart.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/home.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxRates.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxRates-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxRateDetails.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxConfiguration.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxClassDetails.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxClass.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/tax/taxClass-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/weightBasedDetails-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/weightBased.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/weightBased-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/usps.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/ups.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shippingOrigin.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shippingOptions.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shippingMethods.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shippingMethod.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shippingConfig.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/shipping-countries-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/packaging.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/customShippingDetails.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/customQuotesRules.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/shipping/canadapost.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/users.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/users-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/profile.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/permissions.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/permissions-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/permission.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/password.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/groups.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/groups-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/profile/group.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/reviews.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/reviews-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/related.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/productsCategories.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/products.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/productImages.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/product.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/product-menu.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/product-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/product-categories-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/prices.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/prices-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/price.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/optionValue.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/optionsValues.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/optionsValues-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/options.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/options-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/option.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/manufacturers.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/manufacturers-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/manufacturer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/keywords.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/keywords-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/featured.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/featured-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/digitalProduct.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/customProductGroupDetails.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/customProductGroup.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/customProductGroup-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/attributes.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/attributes-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/products/attribute.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/paypal.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/paypal-express-checkout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/paymentMethods.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/paymentMethod.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/moneyorder.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/payment/beanstream.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/orders/transactions.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/orders/orders.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/orders/orders-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/orders/order.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/merchant/stores.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/merchant/stores-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/merchant/storeLanding.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/merchant/merchant.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/merchant/branding.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/optionValue.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/optionsValues.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/optionsValues-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/optionsset.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/optionsset-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/options.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/options-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/option.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/customers.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/customers-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/customers/customer.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/contentPagesDetails.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/contentPages.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/contentImages.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/contentFiles.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/contentFiles-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/content/content-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/configuration/system.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/configuration/email.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/configuration/cacheManagement.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/configuration/accounts.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/components/product-container.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/components/list.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/components/images-list.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/components/fileBrowser.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/categories/hierarchy.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/categories/category.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/categories/categories.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/pages/admin/categories/categories-gridHeader.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/layout/admin/noSkinLayout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/layout/admin/layout.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/common/adminTabs.jsp;JSP;OK;
+STATUS;62258970-b282-40af-92ec-7c32bc9c9cc7;sm-shop/src/main/webapp/common/adminLinks.jsp;JSP;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/modernizr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/bootstrap.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap3/js/bloodhound.min.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-typeahead.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-tooltip.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-tab.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-scrollspy.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-popover.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-modal.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-dropdown.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-collapse.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-carousel.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-button.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/templates/bootstrap/js/bootstrap-alert.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Workflow.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_SQLBrowser.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Scheduler.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_SalesForce.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Kapow.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_History.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Grids.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Foundation.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Forms.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_EBay.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_DSBrowser.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Drawing.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Core.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Containers.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/system/modules/ISC_Calendar.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/skins/SmartClient/load_skin.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/skins/Graphite/load_skin.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/smart-client/skins/Enterprise/load_skin.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/typeahead.min.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/shopping-cart.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/shop-functions.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/shop-customer.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/registration.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/product.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/login.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/json2.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.showLoading.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.raty.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.quicksand.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.printElement.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.maskedinput.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.friendurl.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.formatCurrency-1.4.0.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.elevateZoom-3.0.8.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.easing.1.3.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.creditCardValidator.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery.alphanumeric.pack.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery-sort-filter-plugin.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery-cookie.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/jquery-1.10.2.min.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/hogan.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/adminFunctions.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/address.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/config.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/ckeditor.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/themes/default/theme.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/skins/v2/skin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/skins/office2003/skin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/skins/kama/skin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/xml/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/wsc/dialogs/wsc.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/wsc/dialogs/ciframe.html;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/yui/yui.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/zh-cn.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/vi.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/uk.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/ug.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/tr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/pt-br.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/pl.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/no.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/nl.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/nb.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/mk.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/it.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/hr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/he.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fi.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/fa.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/et.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/eo.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/en.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/el.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/de.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/da.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/cy.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/cs.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/uicolor/lang/bg.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/tableresize/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/table/dialogs/table.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/styles/styles/default.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/scayt/dialogs/options.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/preview/preview.html;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/placeholder/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/link/dialogs/link.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/link/dialogs/anchor.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/image/dialogs/image.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/iframedialog/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/textarea.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/select.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/radio.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/form.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/checkbox.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/forms/dialogs/button.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/flash/dialogs/flash.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/find/dialogs/find.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/docprops/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/div/dialogs/div.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/zh-cn.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/vi.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/uk.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/ug.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/tr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/pt-br.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/pl.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/no.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/nl.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/nb.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/it.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/hr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/he.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/gu.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fr.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fi.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/fa.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/et.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/eo.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/en.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/el.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/de.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/da.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/cy.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/cs.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/devtools/lang/bg.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/bbcode/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/autogrow/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/ajax/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/adobeair/plugin.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/about/dialogs/about.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/zh-cn.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/vi.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/ug.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/tr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/ro.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/pt-br.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/no.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/nl.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/nb.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/mk.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/it.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/he.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/gu.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fi.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/fa.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/eo.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/en.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/el.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/de.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/da.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/cy.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/plugins/a11yhelp/lang/cs.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/_languages.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/zh.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/zh-cn.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/vi.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/uk.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ug.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/tr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/th.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sv.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sr-latn.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sl.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/sk.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ru.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ro.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pt.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pt-br.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/pl.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/no.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/nl.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/nb.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ms.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/mn.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/mk.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/lv.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/lt.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ko.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/km.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ka.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ja.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/it.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/is.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/id.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hu.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/hi.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/he.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/gu.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/gl.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fr.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fr-ca.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fo.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fi.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/fa.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/eu.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/et.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/es.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/eo.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-gb.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-ca.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/en-au.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/el.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/de.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/da.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/cy.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/cs.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ca.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bs.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bn.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/bg.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/ar.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/ckeditor/lang/af.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/jquery.js;JS;Skip;External library
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap.min.js;JS;Skip;Encoded file
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-typeahead.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-transition.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-tooltip.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-tab.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-scrollspy.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-popover.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-modal.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-dropdown.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-datepicker.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-collapse.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-carousel.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-button.js;JS;OK;
+STATUS;31829e5a-18c6-4443-907c-ca1a01452f81;sm-shop/src/main/webapp/resources/js/bootstrap/bootstrap-alert.js;JS;OK;
+FRAMEWORK;javax.servlet.jsp.jstl;Java;0;TBC;1.2;;;
+FRAMEWORK;javax.inject;Java;0;TBC;1;;;
+FRAMEWORK;cglib;Java;0;TBC;2.2;;;
+FRAMEWORK;commons-validator;Java;0;TBC;1.4.0;;;
+FRAMEWORK;aspectj;Java;0;TBC;-, -;;;
+FRAMEWORK;javax.annotation;Java;0;TBC;1.0;;;
+FRAMEWORK;org.jopendocument;Java;0;TBC;1.3b1;;;
+FRAMEWORK;org.apache.tiles;Java;0;TBC;2.1.2, -, -;;;
+FRAMEWORK;javax.servlet;Java;0;TBC;2.5;;;
+FRAMEWORK;org.jboss.cache;Java;0;TBC;3.2.5.GA;;;
+FRAMEWORK;com.itextpdf;Java;0;TBC;5.5.6;;;
+FRAMEWORK;org.aspectj;Java;0;TBC;-, -;;;
+FRAMEWORK;com.mysema.querydsl;Java;0;TBC;-, -, -;;;
+FRAMEWORK;com.shopizer;Java;0;TBC;-, -, -, -, -;;;
+FRAMEWORK;com.fasterxml.jackson.core;Java;0;TBC;-, -;;;
+FRAMEWORK;org.glassfish.web;Java;0;TBC;1.2;;;
+FRAMEWORK;c3p0;Java;0;TBC;-;;;
+FRAMEWORK;org.apache.commons;Java;0;TBC;3.0;;;
+FRAMEWORK;com.maxmind.geoip2;Java;0;TBC;0.7.0;;;
+FRAMEWORK;net.tanesha.recaptcha4j;Java;0;TBC;0.0.7;;;
+FRAMEWORK;org.drools;Java;0;TBC;-;;;
+FRAMEWORK;javax.transaction;Java;0;TBC;1.1;;;
+FRAMEWORK;com.h2database;Java;0;TBC;1.3.152;;;
+FRAMEWORK;net.java.dev.rome;Java;0;TBC;1.0.0;;;
+FRAMEWORK;javax.validation;Java;0;TBC;1.0.0.GA;;;
+FRAMEWORK;joda-time;Java;0;TBC;-;;;
+FRAMEWORK;javax.mail;Java;0;TBC;1.4.5;;;
+FRAMEWORK;com.paypal.sdk;Java;0;TBC;2.6.109;;;
+FRAMEWORK;commons-httpclient;Java;0;TBC;3.1;;;
+FRAMEWORK;mysql;Java;0;TBC;-;;;
+FRAMEWORK;org.jadira.usertype;Java;0;TBC;3.0.0.CR1;;;
+FRAMEWORK;org.infinispan;Java;0;TBC;5.1.6.FINAL, -, -;;;
+FRAMEWORK;javax.servlet.jsp;Java;0;TBC;2.1;;;
+FRAMEWORK;apache commons;Java;1;discovered;1.2.2, -, -, -;Library;Apache License 2.0;
+FRAMEWORK;spring;Java;1;discovered;-;Application development;Apache License 2.0;
+FRAMEWORK;FreeMarker;Java;1;discovered;2.3.19;Library;Apache License 2.0;
+FRAMEWORK;SLF4J;Java;1;discovered;-;Logging framework;MIT;
+FRAMEWORK;javassist;Java;1;discovered;-;Bytecode Edition library;MPL 1.1;
+FRAMEWORK;jackson;Java;1;discovered;-;Java Specification Requests;Apache License 2.0;
+FRAMEWORK;junit;Java;1;discovered;-;Unit Testing Framework;Eclipse Public License;
+FRAMEWORK;json-simple;Java;1;discovered;1.1.1;API framework;Apache License 2.0;
+FRAMEWORK;log4j;Java;1;discovered;1.2.16;Logging framework;Apache License 2.0;
+FRAMEWORK;Hibernate;Java;1;discovered;1 to 2, 1 to 3;Library;LGPL 2.1;
+FRAMEWORK;JPA;Java;1;discovered;-;Java Specification Requests;;
+FRAMEWORK;Jquery;JS;1;discovered;-, -;Web & Mobile applications;MIT;
